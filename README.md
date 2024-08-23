@@ -10,9 +10,9 @@ This repository contains a linear regression implementation from scratch using P
 - `LinearRegressionScratch/`
   - `test.csv`: Dataset for testing univariate regression.
   - `Student_Performance.csv`: Dataset for testing multivariate regression.
-- `LRScratch.py`: Python module implementing linear regression from scratch.
-- `Implementation_Demo.ipynb`: Jupyter notebook demonstrating the implementation process of the linear regression module.
-- `Multivariate_Example.ipynb`: Jupyter notebook showing how to use the `LRScratch` module with a multivariate dataset.
+  - `LRScratch.py`: Python module implementing linear regression from scratch.
+  - `Implementation_Demo.ipynb`: Jupyter notebook demonstrating the implementation process of the linear regression module.
+  - `Multivariate_Example.ipynb`: Jupyter notebook showing how to use the `LRScratch` module with a multivariate dataset.
 
 #### Prerequisites
 
