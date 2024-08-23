@@ -1,9 +1,9 @@
 # MLalgos-from-scratch
-implementing supervised ML algorithms from scratch 
+This repository contains the demonstrations of implementation of supervised ML algorithms from scratch - using numpy and math. 
 
 ## Linear Regression from Scratch
 
-This repository contains a linear regression implementation from scratch using Python. It includes data files, a module for linear regression, and Jupyter notebooks to demonstrate the implementation and usage.
+This directory contains a linear regression implementation from scratch using Python. It includes data files, a module for linear regression, and Jupyter notebooks to demonstrate the implementation and usage.
 
 ### Repository Structure
 
